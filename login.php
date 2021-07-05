@@ -1,6 +1,5 @@
 <?php // Регистрация доступа к базе данных
-  $hn = 'localhost';
-  $db = 'domhit';
-  $un = 'mysql';
-  $pw = '';
-?>
+$hn = 'localhost';
+$db = 'domhit';
+$un = 'mysql';
+$pw = '';
